@@ -19,4 +19,4 @@ As consultants, our objective was to strategically recommend how Thomas Cook, a 
 1. **Collaborated with a team of six consultants in this project**, leveraging collective expertise in consulting, research, and data analysis.
 2. Worked on **in-depth secondary research and interpreted results** to align with the project’s goals.
 3. Developed research-backed **strategic recommendations** for AI integration into Thomas Cook’s business processes.
-5. Played a key role in creating visually appealing and creative presentations to convey findings effectively, earning positive feedback from peers for dedication, creativity, and research skills.
+5. Played a key role in **creating visually appealing and creative presentations to convey findings effectively**, earning positive feedback from peers for dedication, creativity, and research skills.
