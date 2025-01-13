@@ -7,7 +7,7 @@ As consultants, our objective was to strategically recommend how Thomas Cook, a 
 ## Methodology
 1. Conducted extensive **secondary research** using university-approved resources, business reports, and white papers.
 2. Performed **market and competitor analysis** to assess AI applications in the U.S. travel industry.
-3. Analyzed U.S. consumer behavior trends and predicted demand for AI-enhanced travel services through a **primary research survey** of 106 respondents between 18-24 age group.
+3. Analyzed U.S. consumer behavior trends and predicted demand for AI-enhanced travel services through a **primary research survey of 106 respondents** between 18-24 age group.
 4. Evaluated **legal barriers and proposed implementation strategies** to integrate AI solutions.
 
 ## Key Deliverables
