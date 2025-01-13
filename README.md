@@ -15,7 +15,7 @@ As consultants, our objective was to strategically recommend how Thomas Cook, a 
 2. Developed a project scoping document, issue tree, and conducted user and technology assessments to guide our approach.
 3. Proposed a roadmap for AI-enabled solutions to enhance customer experience, streamline operations, and drive growth.
 
-## Contribution
+## My role
 1. **Collaborated with a team of six consultants in this project**, leveraging collective expertise in consulting, research, and data analysis.
 2. Worked on **in-depth secondary research and interpreted results** to align with the project’s goals.
 3. Developed research-backed **strategic recommendations** for AI integration into Thomas Cook’s business processes.
