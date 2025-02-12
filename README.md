@@ -1,4 +1,4 @@
-# Strategic-Recommendation-on-Integrating-AI-into-Thomas-Cook-Business-Practices
+# Strategic Recommendation on Integrating AI into established Business practices
 Information Consulting Project
 
 ## Project Overview 
